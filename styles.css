@@ -288,9 +288,9 @@ section{
 
 .testimonal .box-container .box:hover{
     transform: translateY(-5%);
-    transition: .5s linear;
+    transition: .3s linear;
     background: #fff;
-    border: .2rem solid #f8f8a1;
+    border: .2rem solid var(--main-color);
 
 
 }
